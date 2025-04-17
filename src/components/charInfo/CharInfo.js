@@ -87,8 +87,6 @@ const View = ({char}) => {
         imgStyle = {'objectFit' : 'contain'};
     }
 
-    console.log(char);
-
 
     return (
         <>
